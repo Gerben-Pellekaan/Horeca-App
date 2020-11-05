@@ -1,0 +1,13 @@
+.container {
+	font-family: 'Roboto', sans-serif;
+	margin: 0 auto;
+	background-color: #FAFAD2;
+}
+
+h2 {
+	color: green;
+}
+
+h3 {
+	color: red;
+}
